@@ -1,4 +1,4 @@
-//Q 8. Use Greedy Search algorithm to obtain Minimum Spanning Tree
+//Q 7. Use Greedy Search algorithm to find single source shortest path
 
 import java.util.*;
 
